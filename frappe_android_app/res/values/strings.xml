@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Frappe Authenticator</string>
+    <string name="private_version">0.1</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">frappe</string>
+    <string name="label">Frappe</string>
+	<string name="signup_title">Create new account</string>
+    <string name="login_label">Log in</string>
+</resources>
