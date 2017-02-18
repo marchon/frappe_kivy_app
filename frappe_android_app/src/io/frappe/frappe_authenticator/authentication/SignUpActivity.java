@@ -9,7 +9,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-import org.kivymd.kitchen_sink.R;
+import io.frappe.frappe_authenticator.R;
 
 import static io.frappe.frappe_authenticator.authentication.AccountGeneral.sServerAuthenticate;
 import static io.frappe.frappe_authenticator.authentication.AuthenticatorActivity.ARG_ACCOUNT_TYPE;
