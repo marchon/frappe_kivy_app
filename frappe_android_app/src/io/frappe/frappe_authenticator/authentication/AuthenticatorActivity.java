@@ -10,9 +10,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
-import me.revant.frappe_authenticator.R;
+import io.frappe.frappe_authenticator.R;
 
-import static me.revant.frappe_authenticator.authentication.AccountGeneral.sServerAuthenticate;
+import static io.frappe.frappe_authenticator.authentication.AccountGeneral.sServerAuthenticate;
 
 /**
  * The Authenticator activity.

@@ -1,4 +1,4 @@
-package me.revant.frappe_authenticator.authentication;
+package io.frappe.frappe_authenticator.authentication;
 
 import android.util.Log;
 import com.google.gson.Gson;

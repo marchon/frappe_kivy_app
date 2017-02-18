@@ -8,7 +8,7 @@ import android.text.TextUtils;
 import android.util.Log;
 
 import static android.accounts.AccountManager.KEY_BOOLEAN_RESULT;
-import static me.revant.frappe_authenticator.authentication.AccountGeneral.*;
+import static io.frappe.frappe_authenticator.authentication.AccountGeneral.*;
 
 public class FrappeAuthenticator extends AbstractAccountAuthenticator {
 
