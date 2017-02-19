@@ -82,7 +82,6 @@ public class FrappeServerAuthenticate implements ServerAuthenticate{
         params.setParameter("username", user);
         params.setParameter("password", pass);
         httpGet.setParams(params);
-//        httpGet.getParams().setParameter("username", user).setParameter("password", pass);
 
         String authtoken = null;
         try {
